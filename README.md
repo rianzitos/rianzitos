@@ -1,7 +1,7 @@
 <h1 align="center">👀 Rian Rafael</h1>
 <p align="center">
   Estutante de 17 anos atualmente no 3º ano do Ensino Médio <br>
-  Fazendo curso técnico em Análise Desenvolvimento de Sistemas no SENAI
+  Fazendo curso técnico em Análise e Desenvolvimento de Sistemas no SENAI
 </p>
 
 ## 🙄 Depois eu adiciono mais coisa :)
