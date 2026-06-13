@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Rian!
+# 👋 Olá, me chamo Rian!
 
 💻 Estudante de Desenvolvimento de Sistemas no SENAI  
 🎂 17 anos  
