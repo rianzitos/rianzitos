@@ -53,6 +53,6 @@ Gosto de criar projetos para aprender novas tecnologias e transformar ideias em 
 
 <div align="center">
 
-### 🚀 "Sempre aprendendo e evoluindo um código por vez."
+### ⭐ "Bem-aventurados os pacificadores." - Matheus 5:9
 
 </div>
