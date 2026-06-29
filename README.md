@@ -24,18 +24,6 @@ Gosto de criar projetos para aprender novas tecnologias e transformar ideias em 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rianzitos&show_icons=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianzitos&layout=compact" />
-
-</div>
-
----
-
 ## 🎯 Atualmente
 
 - 📚 Estudando Desenvolvimento de Sistemas no SENAI
