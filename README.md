@@ -44,3 +44,7 @@ Gosto de criar projetos para aprender novas tecnologias e transformar ideias em 
 ### ⭐ "Bem-aventurados os pacificadores." - Matheus 5:9
 
 </div>
+
+<div align="center">
+  <h3> E sim, esse readme foi feito com IA, eu não sei o bastante sobre mim mesmo.</h3>
+</div>
