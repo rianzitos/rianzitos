@@ -46,5 +46,5 @@ Gosto de criar projetos para aprender novas tecnologias e transformar ideias em 
 </div>
 
 <div align="center">
-  <h3> E sim, esse readme foi feito com IA, eu não sei o bastante sobre mim mesmo.</h3>
+  <h5> E sim, esse readme foi feito com IA, eu não sei o bastante sobre mim mesmo.</h5>
 </div>
