@@ -18,7 +18,7 @@ Gosto de criar projetos para aprender novas tecnologias e transformar ideias em 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,dart,php,pyhton,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,dart,php,mysql" />
 
 </div>
 
