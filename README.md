@@ -31,10 +31,7 @@ Meu grande objetivo é me tornar engenheiro de software em uma empresa grande, e
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<p align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rianzitos&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianzitos&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
 ## Vamos conversar
 
