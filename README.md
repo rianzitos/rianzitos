@@ -10,12 +10,23 @@
 
 Sou estudante do terceiro ano do ensino médio, cursando também o técnico em Desenvolvimento de Sistemas. Programar é a minha maior paixão, e nas horas vagas gosto de desenhar, ouvir música e passar o tempo com quem gosto.
 
-Meu grande objetivo é me tornar engenheiro de software em uma empresa grande, e cada projeto que crio é mais um passo nessa direção.
-
-- 🔭 Atualmente aprendendo e evoluindo em desenvolvimento web e mobile
+- 🔭 Atualmente aprendendo e evoluindo em desenvolvimento de sistemas e web
 - 🎯 Meta: virar engenheiro de software
 - 🎨 Curto unir programação com design
-- ⚽ Torcedor Corinthiano roxo
+- ⚽ Torcedor Corinthiano
+
+Meu grande objetivo é me tornar engenheiro de software em uma empresa grande, e cada projeto que crio é mais um passo nessa direção.
+
+## Projetos em destaque
+
+### 🍽️ Fluxe e SICAPDA
+A Fluxe é uma empresa criada com o objetivo de apresentar soluções inteligentes para diferentes empresas, junto com seu sistema SICAPDA (Sistema Inteligente de Controle de Acesso e Previsão de Demanda Alimentar) — aplicação PHP MVC com autenticação, controle de acesso por papéis e camada PDO, já em produção.
+`HTML` `CSS` `JavaScript` `PHP` `MySQL` `MVC`
+
+### 🌐 NewsToday — Site de notícias
+Um site simples de notícia, com um design agradável e responsividade totalmente funcional
+`HTML` `CSS` `JavaScript`
+
 
 ## Tecnologias
 
@@ -29,12 +40,17 @@ Meu grande objetivo é me tornar engenheiro de software em uma empresa grande, e
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450"> </p>
+## Um pouco mais sobre mim
+
+- 💻 Trabalho com desenvolvimento full-stack: back-end, front-end e mobile
+- 📚 Sempre estudando algo novo, seja na escola, no técnico ou por conta própria
+- 🤝 Gosto de projetos em equipe e de aprender trocando ideia com outros devs
+- 🌱 Em constante evolução — cada repositório aqui é um pedaço dessa jornada
 
 ## Vamos conversar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rianrael063" target="_blank">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rianrafael063@gmail.com">
