@@ -8,14 +8,14 @@
 
 ## Sobre mim
 
-Sou estudante do terceiro ano do ensino médio, cursando também o técnico em Desenvolvimento de Sistemas. Programar é a minha maior paixão, e nas horas vagas gosto de desenhar, ouvir música e passar o tempo com quem eu gosto.
+Sou estudante do terceiro ano do ensino médio, cursando também o técnico em Desenvolvimento de Sistemas. Programar é a minha maior paixão, e nas horas vagas gosto de desenhar, ouvir música e passar o tempo com quem gosto.
 
 Meu grande objetivo é me tornar engenheiro de software em uma empresa grande, e cada projeto que crio é mais um passo nessa direção.
 
 - 🔭 Atualmente aprendendo e evoluindo em desenvolvimento web e mobile
 - 🎯 Meta: virar engenheiro de software
 - 🎨 Curto unir programação com design
-- ⚽ Torcedor roxo... digo, corintiano
+- ⚽ Torcedor Corinthiano roxo
 
 ## Tecnologias
 
@@ -32,17 +32,20 @@ Meu grande objetivo é me tornar engenheiro de software em uma empresa grande, e
 ## GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rianzitos&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianzitos&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## Vamos conversar
 
-<!-- <p align="left">
-  <a href="https://www.linkedin.com/in/" target="_blank">
+<p align="left">
+  <a href="https://www.linkedin.com/in/rianrael063" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> -->
-  <a href="mailto:SEU_EMAIL">
+  </a>
+  <a href="mailto:rianrafael063@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/rianzitos1910" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
