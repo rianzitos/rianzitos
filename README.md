@@ -29,9 +29,7 @@ Meu grande objetivo é me tornar engenheiro de software em uma empresa grande, e
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-## GitHub Stats
-
-<p align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rianzitos&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianzitos&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450"> </p>
 
 ## Vamos conversar
 
