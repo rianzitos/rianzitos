@@ -60,3 +60,9 @@ Um site simples de notícia, com um design agradável e responsividade totalment
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+____________________________________________________________________________________________________________________________
+
+<p align="center">
+  ⭐ "Bem-aventurados os pacificadores" - Mateus 5:9 ⭐
+</p>
