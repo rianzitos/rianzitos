@@ -52,7 +52,7 @@ Um site simples de notícia, com um design agradável e responsividade totalment
 ## Vamos conversar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/rian-rafael-11218a41a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rianrafael063@gmail.com">
