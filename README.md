@@ -24,8 +24,12 @@ A Fluxe é uma empresa criada com o objetivo de apresentar soluções inteligent
 `HTML` `CSS` `JavaScript` `PHP` `MySQL` `MVC`
 
 ### 🌐 NewsToday — Site de notícias
-Um site simples de notícia, com um design agradável e responsividade totalmente funcional
-`HTML` `CSS` `JavaScript`
+Site de notícias desenvolvido em uma atividade de responsividade, com foco em um design agradável e em um layout que se adapta bem a qualquer tamanho de tela, do celular ao desktop. O projeto está evoluindo: estou adicionando um back-end real com PHP e MySQL para tirar as notícias do conteúdo estático.
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
+
+### 🏙️ CityDash — Dashboard de cidades e locais do mundo
+Projeto que consome APIs para trazer dados em tempo real e exibi-los em um painel dinâmico. Aqui pratico requisições assíncronas com `fetch`, tratamento de dados em JSON e manipulação do DOM para atualizar a interface sem recarregar a página.
+`HTML` `CSS` `JavaScript` `APIs` `DOM`
 
 
 ## Tecnologias
@@ -34,6 +38,7 @@ Um site simples de notícia, com um design agradável e responsividade totalment
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
