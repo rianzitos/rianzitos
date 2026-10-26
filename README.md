@@ -38,7 +38,7 @@ I'm a 17-year-old software development student at **SENAI**, currently finishing
 **Languages & core technologies**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,dart,cpp,mysql&perline=9" alt="Languages and core technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,dart,mysql&perline=9" alt="Languages and core technologies" />
 </p>
 
 **Frameworks & tools**
