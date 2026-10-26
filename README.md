@@ -1,79 +1,63 @@
-<h1 align="center">Olá, eu sou o Rian 👋</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=17+anos+%7C+Terceiro+ano+do+ensino+m%C3%A9dio;T%C3%A9cnico+em+Desenvolvimento+de+Sistemas;Apaixonado+por+programa%C3%A7%C3%A3o;Sonhando+em+ser+engenheiro+de+software" alt="Typing SVG" />
-  </a>
+# Hi, I'm Rian Rafael 👋
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1100&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Software+Development+Student;Aspiring+Software+Engineer;Building+ideas+into+real+projects" alt="Typing SVG" />
+</a>
+
+**Full-Stack Development · Web Applications · Creative Problem Solving**
+
+I'm a 17-year-old software development student at **SENAI**, currently finishing high school. I enjoy building functional applications, exploring new technologies, and turning ideas into practical solutions.
+
+<a href="https://www.linkedin.com/in/rian-rafael-11218a41a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:rianrafael063@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.instagram.com/rianzitos1910"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+</div>
+
+---
+
+### About me
+
+- 🎓 Studying **Systems Development at SENAI**.
+- 💻 Focused on **full-stack web development**, with an interest in mobile applications.
+- 🎨 Interested in the intersection of **software engineering and interface design**.
+- 🚀 Working toward a career in **software engineering**.
+
+### Featured projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[FLUXE / SICAPDA](https://github.com/rianzitos/SystemFluxe)** | Smart access control and food demand forecasting system, combining business workflows with web development. | `PHP` `MySQL` `JavaScript` `MVC` |
+| **[NewsToday](https://github.com/rianzitos/NewsToday)** | Responsive news website focused on clean interfaces and an evolving dynamic back end. | `HTML` `CSS` `JavaScript` `PHP` |
+| **[CityDash](https://github.com/rianzitos/CityDash)** | Interactive city dashboard that uses APIs and asynchronous JavaScript to display information. | `JavaScript` `APIs` `CSS` |
+
+### Tech stack
+
+**Languages & core technologies**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,dart,cpp,mysql&perline=9" alt="Languages and core technologies" />
 </p>
 
-## Sobre mim
+**Frameworks & tools**
 
-Sou estudante do terceiro ano do ensino médio, cursando também o técnico em Desenvolvimento de Sistemas. Programar é a minha maior paixão, e nas horas vagas gosto de desenhar, ouvir música e passar o tempo com quem gosto.
-
-- 🔭 Atualmente aprendendo e evoluindo em desenvolvimento de sistemas e web
-- 🎯 Meta: virar engenheiro de software
-- 🎨 Curto unir programação com design
-- ⚽ Torcedor Corinthiano
-
-Meu grande objetivo é me tornar engenheiro de software em uma empresa grande, e cada projeto que crio é mais um passo nessa direção.
-
-## Projetos em destaque
-
-### 🍽️ Fluxe e SICAPDA
-A Fluxe é uma empresa criada com o objetivo de apresentar soluções inteligentes para diferentes empresas, junto com seu sistema SICAPDA (Sistema Inteligente de Controle de Acesso e Previsão de Demanda Alimentar) — aplicação PHP MVC com autenticação, controle de acesso por papéis e camada PDO, já em produção.
-`HTML` `CSS` `JavaScript` `PHP` `MySQL` `MVC`
-
-### 🌐 NewsToday — Site de notícias
-Site de notícias desenvolvido em uma atividade de responsividade, com foco em um design agradável e em um layout que se adapta bem a qualquer tamanho de tela, do celular ao desktop. O projeto está evoluindo: estou adicionando um back-end real com PHP e MySQL para tirar as notícias do conteúdo estático.
-`HTML` `CSS` `JavaScript` `PHP` `MySQL`
-
-### 🏙️ CityDash — Dashboard de cidades e locais do mundo
-Projeto que consome APIs para trazer dados em tempo real e exibi-los em um painel dinâmico. Aqui pratico requisições assíncronas com `fetch`, tratamento de dados em JSON e manipulação do DOM para atualizar a interface sem recarregar a página.
-`HTML` `CSS` `JavaScript` `APIs` `DOM`
-
-
-## Tecnologias
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-8A2BE2?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,nodejs,flutter,git,github,vscode,figma&perline=8" alt="Frameworks and tools" />
 </p>
 
+### GitHub activity
 
-## Um pouco mais sobre mim
+<div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=rianzitos&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Rian's GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rianzitos&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Rian's most used languages" />
+</div>
 
-- 💻 Trabalho com desenvolvimento full-stack: back-end, front-end e mobile
-- 📚 Sempre estudando algo novo, seja na escola, no técnico ou por conta própria
-- 🤝 Gosto de projetos em equipe e de aprender trocando ideia com outros devs
-- 🌱 Em constante evolução — cada repositório aqui é um pedaço dessa jornada
+---
 
-## Vamos conversar
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rian-rafael-11218a41a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rianrafael063@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/rianzitos1910" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+*⭐ "Blessed are the peacemakers" - Matthew 5:9 ⭐*
 
-____________________________________________________________________________________________________________________________
-
-<p align="center">
-  ⭐ "Bem-aventurados os pacificadores" - Mateus 5:9 ⭐
-</p>
+</div>
