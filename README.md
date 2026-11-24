@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Rian Rafael 👋
+<img src="assets/header.svg" width="100%" alt="Rian Rafael — Full-Stack Developer and Software Development Student" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1100&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Software+Development+Student;Aspiring+Software+Engineer;Building+ideas+into+real+projects" alt="Typing SVG" />
@@ -16,7 +16,7 @@ I'm a 17-year-old software development student at **SENAI**, currently finishing
 
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ### About me
 
@@ -25,13 +25,21 @@ I'm a 17-year-old software development student at **SENAI**, currently finishing
 - 🎨 Interested in the intersection of **software engineering and interface design**.
 - 🚀 Working toward a career in **software engineering**.
 
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
 ### Featured projects
+
+<a href="https://github.com/rianzitos/SystemFluxe">
+  <img src="assets/sicapda.svg" width="100%" alt="SICAPDA by FLUXE — smart access control and meal demand forecasting" />
+</a>
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[FLUXE / SICAPDA](https://github.com/rianzitos/SystemFluxe)** | Smart access control and food demand forecasting system, combining business workflows with web development. | `PHP` `MySQL` `JavaScript` `MVC` |
+| **[FLUXE / SICAPDA](https://github.com/rianzitos/SystemFluxe)** | Smart access control and food demand forecasting system, combining business workflows with web development. | `PHP` `MySQL` `JavaScript` `Flutter` `IoT` |
 | **[NewsToday](https://github.com/rianzitos/NewsToday)** | Responsive news website focused on clean interfaces and an evolving dynamic back end. | `HTML` `CSS` `JavaScript` `PHP` |
 | **[CityDash](https://github.com/rianzitos/CityDash)** | Interactive city dashboard that uses APIs and asynchronous JavaScript to display information. | `JavaScript` `APIs` `CSS` |
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ### Tech stack
 
@@ -47,6 +55,8 @@ I'm a 17-year-old software development student at **SENAI**, currently finishing
   <img src="https://skillicons.dev/icons?i=angular,bootstrap,nodejs,flutter,git,github,vscode,figma&perline=8" alt="Frameworks and tools" />
 </p>
 
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
 ### GitHub activity
 
 <div align="center">
@@ -54,7 +64,7 @@ I'm a 17-year-old software development student at **SENAI**, currently finishing
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rianzitos&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Rian's most used languages" />
 </div>
 
----
+<img src="assets/footer.svg" width="100%" alt="" />
 
 <div align="center">
 

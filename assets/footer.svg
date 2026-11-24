@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" fill="none" role="img" aria-label="Animated waves">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#58A6FF"/>
+      <stop offset="0.5" stop-color="#A371F7"/>
+      <stop offset="1" stop-color="#39D0D8"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.15" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="0.85" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="m"><rect width="1200" height="110" fill="url(#fade)"/></mask>
+    <path id="wave" d="M0 60 C150 20 300 20 450 60 S750 100 900 60 S1200 20 1350 60 S1650 100 1800 60 S2100 20 2250 60 S2550 100 2700 60 V110 H0 Z"/>
+  </defs>
+  <style>
+    .w { animation: flow linear infinite; }
+    .w1 { animation-duration: 14s; }
+    .w2 { animation-duration: 20s; animation-direction: reverse; }
+    .w3 { animation-duration: 26s; }
+    @keyframes flow { from { transform: translateX(0); } to { transform: translateX(-900px); } }
+    @media (prefers-reduced-motion: reduce) { .w { animation: none; } }
+  </style>
+  <g mask="url(#m)">
+    <g class="w w3"><use href="#wave" fill="url(#g1)" opacity="0.12" transform="translate(0 6)"/></g>
+    <g class="w w2"><use href="#wave" fill="url(#g1)" opacity="0.18" transform="translate(-225 14)"/></g>
+    <g class="w w1"><use href="#wave" fill="url(#g1)" opacity="0.28" transform="translate(-450 26)"/></g>
+  </g>
+</svg>
