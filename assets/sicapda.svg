@@ -96,7 +96,7 @@
     </g>
   </g>
 
-  <text x="60" y="350" class="mono" font-size="13" fill="#7A7A7A">PHP · MySQL · JavaScript · Flutter · Python · ESP32</text>
+  <text x="60" y="350" class="mono" font-size="13" fill="#7A7A7A">PHP · MySQL · JavaScript · Flutter · ESP32</text>
 
   <!-- Right: dashboard -->
   <g>
